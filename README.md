@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#2563eb; font-size:36px;">
-🏦 SmartBank: Customer Churn Prediction & Retention Analytics
+🏦 SmartBank: Customer Churn Prediction & Retention Analytics,color:red;
 </h1>
 
 <p align="center">
