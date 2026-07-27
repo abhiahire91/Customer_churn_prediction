@@ -89,7 +89,7 @@ The model identifies customers likely to leave and helps businesses take proacti
 
 <h2 style="color:#1d4ed8;">📌 Classification Report</h2>
 
-<div style="background:#111827; padding:12px; border-radius:10px; color:white;">
+<div style="background:#111827; padding:12px; border-radius:10px; color:red;">
 <b>Class 0 (No Churn):</b><br>
 Precision: 0.91 | Recall: 0.89 | F1-score: 0.90<br><br>
 
